@@ -1,0 +1,25 @@
+{
+    "name": "Example quiz",
+    "author": "siniarskimar",
+    "description": "Example quiz how to create quizzes",
+    "questions":[
+        {
+            "question": "Where this code is published?",
+            "answers": [
+                "GitHub",
+                "SourceForge",
+                "GitLab"
+            ],
+            "answer": 0
+        },
+		{
+			"question": "What is prupose of this program ?",
+			"answers": [
+				"Kitchen recipes",
+				"Quizzes",
+				"Food delivery"
+			],
+			"answer": 1
+		}
+    ]
+}
